@@ -1,0 +1,13 @@
+div {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="number"] {
+    width: 50px;
+}
+
+button {
+    margin-top: 20px;
+}
